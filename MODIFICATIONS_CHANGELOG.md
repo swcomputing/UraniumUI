@@ -35,7 +35,7 @@ _NOTE: Future modifications of new files added to this fork under SW Computing L
 
 _Unless otherwise stated file copyright is held by [@enisn under Apache 2.0 License](LICENSE) and modifications copyright is held by [SW Computing Ltd under Apache 2.0 License](MODIFICATIONS_LICENSE). Where modified content duplicates content from the upstream repository in the same file, or the same content exists in other files of the upstream repository, from the same or earlier time that content is under the upstream @enisn copyright and license._
 
-|Date Modified|File|Description|PR|Copyright|License|
+|Date Modified|File|Description|Diff|Copyright|License|
 |---|---|---|---|---|---|
 |12-10-2024|[UraniumUI.sln](UraniumUI.sln)|Added some repo root files, notably licenses and changelog, to VS solution for visibility to developers. Not currently possible to add comments to VS solution file to log the changes in file: <https://learn.microsoft.com/en-us/answers/questions/909114/solution-(sln)-file-comments>|[PR1](https://github.com/swcomputing/UraniumUI/pull/1/files#diff-c1a5a6c44362541f6f027d4ec6b42886ea7586f458646bfe7f87f5f86e63d8d8)|---|---|
 |||||||
