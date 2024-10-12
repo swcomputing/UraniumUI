@@ -7,7 +7,7 @@ SPDX-License-Identifier: Apache-2.0
 
 This repository is a fork of [enisn/UraniumUI](https://github.com/enisn/UraniumUI) and with respect to its Apache 2.0 license changes are recorded here as a changelog of modifications of @enisn copyrighted files and additions of new files under SW Computing Ltd or other copyright.
 
-## License and copyright
+## License and Copyright
 
 Copright notices and change details for significant new creative content in modified files under the [APACHE 2.0 license](LICENSE) with @ensin copyright, are included in the file headers where technically possible[1] and listed below in the [Modified Files](#modified-files) changelog.
 
