@@ -37,9 +37,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UraniumUI.Blurs", "src\Uran
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UraniumUI.WebComponents", "src\UraniumUI.WebComponents\UraniumUI.WebComponents.csproj", "{78F7207D-B804-499B-97F5-8EA1D0EA9DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UraniumUI.Icons.SegoeFluent", "src\UraniumUI.Icons.SegoeFluent\UraniumUI.Icons.SegoeFluent.csproj", "{D146428B-5B37-4614-A6F4-2E9716E0CC08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UraniumUI.Icons.SegoeFluent", "src\UraniumUI.Icons.SegoeFluent\UraniumUI.Icons.SegoeFluent.csproj", "{D146428B-5B37-4614-A6F4-2E9716E0CC08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UraniumUI.Icons.MaterialSymbols", "src\UraniumUI.Icons.MaterialSymbols\UraniumUI.Icons.MaterialSymbols.csproj", "{5F8A8D64-6B4F-4936-A2A5-A4765FFDD6AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UraniumUI.Icons.MaterialSymbols", "src\UraniumUI.Icons.MaterialSymbols\UraniumUI.Icons.MaterialSymbols.csproj", "{5F8A8D64-6B4F-4936-A2A5-A4765FFDD6AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepoRoot", "RepoRoot", "{86A72C16-A930-4C3A-AC34-B7675CB9788C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		CONTRIBUTING.md = CONTRIBUTING.md
+		LICENSE = LICENSE
+		MODIFICATIONS_CHANGELOG.md = MODIFICATIONS_CHANGELOG.md
+		MODIFICATIONS_LICENSE = MODIFICATIONS_LICENSE
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
