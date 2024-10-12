@@ -25,10 +25,10 @@ _Aside from the use of duplicated content from other files in the upstream repos
 
 _NOTE: Future modifications of new files added to this fork under SW Computing Ltd copyright and license will not be recorded here other than updates on copyright and license information for those files._
 
-|Date Added|File|Description|PR|Copyright|License|
+|Date Added|File|Description|Diff|Copyright|License|
 |---|---|---|---|---|---|
-|12-10-2024|[MODIFICATIONS_LICENSE](MODIFICATIONS_LICENSE)|Apache 2.0 license for new files and significant creative modifications copyright.|---|---|---|
-|12-10-2024|[MODIFICATIONS_CHANGELOG.md](MODIFICATIONS_CHANGELOG.md)|Modification changelog.|---|---|---|
+|12-10-2024|[MODIFICATIONS_LICENSE](MODIFICATIONS_LICENSE)|Apache 2.0 license for new files and significant creative modifications copyright.|[PR1](https://github.com/swcomputing/UraniumUI/pull/1/files#diff-eeb1118b60e03e99f200b2fdc1435b82a56e54e9c1f963fbe5d135df14d1a8d1)|---|---|
+|12-10-2024|[MODIFICATIONS_CHANGELOG.md](MODIFICATIONS_CHANGELOG.md)|Modification changelog.|[PR1](https://github.com/swcomputing/UraniumUI/pull/1/files#diff-6b7a4e4838b1b789e4e0735f7dc9a683fe438da124db309f1368f6d3ea570370)|---|---|
 |||||||
 
 ## Modified Files
@@ -37,5 +37,5 @@ _Unless otherwise stated file copyright is held by [@enisn under Apache 2.0 Lice
 
 |Date Modified|File|Description|PR|Copyright|License|
 |---|---|---|---|---|---|
-|12-10-2024|[UraniumUI.sln](UraniumUI.sln)|Added some repo root files, notably licenses and changelog, to VS solution for visibility to developers. Not currently possible to add comments to VS solution file to log the changes in file: <https://learn.microsoft.com/en-us/answers/questions/909114/solution-(sln)-file-comments>|---|---|---|
+|12-10-2024|[UraniumUI.sln](UraniumUI.sln)|Added some repo root files, notably licenses and changelog, to VS solution for visibility to developers. Not currently possible to add comments to VS solution file to log the changes in file: <https://learn.microsoft.com/en-us/answers/questions/909114/solution-(sln)-file-comments>|[PR1](https://github.com/swcomputing/UraniumUI/pull/1/files#diff-c1a5a6c44362541f6f027d4ec6b42886ea7586f458646bfe7f87f5f86e63d8d8)|---|---|
 |||||||
